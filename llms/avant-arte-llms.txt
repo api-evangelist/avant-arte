@@ -1,0 +1,22 @@
+# Avant Arte
+
+> Avant Arte is a global online art marketplace for discovering and collecting limited edition prints, sculptures and digital works produced in close collaboration with leading contemporary artists. No public developer API is published; this is a company profile in the API Evangelist network.
+
+## Company
+- [Website](https://avantarte.com/): Discover and buy works from the world's most exciting artists
+- [About](https://avantarte.com/about): Company mission and story
+- [Artists](https://avantarte.com/artists): Roster of 250+ featured contemporary artists
+- [Careers](https://avantarte.com/careers): Open roles at Avant Arte
+
+## Support
+- [Support](https://avantarte.com/support): Help center and customer support
+- [FAQ](https://avantarte.com/support/faq): Frequently asked questions
+- [Sign up](https://avantarte.com/sign-up): Create an account
+
+## Legal
+- [Terms & Conditions](https://avantarte.com/support/terms-and-conditions)
+- [Privacy Policy](https://avantarte.com/support/privacy-policy)
+
+## Security
+- [Vulnerability Disclosure Policy](https://github.com/avantarte/Vulnerability-Disclosure): Responsible-disclosure policy (no bug bounty)
+- [GitHub Organization](https://github.com/avantarte): Public GitHub organization

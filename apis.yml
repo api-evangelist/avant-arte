@@ -1,8 +1,16 @@
 aid: avant-arte
 name: Avant Arte
-description: 'Avant Arte is a company surfaced as a portfolio company of bessemer-venture-partners, prosus-ventures
-  and added to the API Evangelist network as a stub for enrichment. Sector: marketplaces. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: >-
+  Avant Arte is a global online art marketplace for discovering and collecting
+  limited edition prints, sculptures and digital works produced in close
+  collaboration with leading contemporary artists. Founded in the Netherlands,
+  the platform works directly with 250+ artists on exclusive editions and
+  release "draws", offering authentication, custom framing, gift cards, and
+  expert collector support. It surfaced in the API Evangelist network as a
+  portfolio company of Bessemer Venture Partners and Prosus Ventures in the
+  marketplaces sector. Avant Arte does not publish a public developer API; this
+  profile has been enriched from its public web, security, and organizational
+  surfaces.
 url: https://raw.githubusercontent.com/api-evangelist/avant-arte/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +19,29 @@ x-backed-by:
 - prosus-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://avantarte.com/api/og?overline=Avant%20Arte&title=Discover%20and%20buy%20works%20from%20the%20world%27s%20most%20exciting%20artists
 tags:
 - Company
 - Marketplaces
+- Art
+- E-commerce
+- Collectibles
+- Contemporary Art
+- Prints
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +51,26 @@ maintainers:
 common:
 - type: Website
   url: https://avantarte.com/
+- type: Support
+  url: https://avantarte.com/support
+- type: SignUp
+  url: https://avantarte.com/sign-up
+- type: TermsOfService
+  url: https://avantarte.com/support/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://avantarte.com/support/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/avantarte
+- type: VulnerabilityDisclosure
+  url: security/avant-arte-vulnerability-disclosure.yml
+- type: Security
+  url: https://github.com/avantarte/Vulnerability-Disclosure
+- type: DomainSecurity
+  url: security/avant-arte-domain-security.yml
+- type: LLMsTxt
+  url: llms/avant-arte-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
