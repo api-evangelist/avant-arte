@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Avant Arte is a company surfaced as a portfolio company of bessemer-venture-partners, prosus-ventures and added to the API Evangelist network as a stub for enrichment. Sector: marketplaces. This profile is a lead awaiting the enrichment pipeline.
+Avant Arte is a global online art marketplace for discovering and collecting limited edition prints, sculptures and digital works produced in close collaboration with leading contemporary artists. Founded in the Netherlands, the platform works directly with 250+ artists on exclusive editions and release "draws", offering authentication, custom framing, gift cards, and expert collector support. It surfaced in the API Evangelist network as a portfolio company of Bessemer Venture Partners and Prosus Ventures in the marketplaces sector. Avant Arte does not publish a public developer API; this profile has been enriched from its public web, security, and organizational surfaces.
 
-Backed by: bessemer-venture-partners, prosus-ventures — https://avantarte.com/
+**Areas:** Company · Marketplace · Art · E-Commerce · Collectibles · Contemporary Art · Print
+
+## Avant Arte on APIs.io
+
+Everything profiled for Avant Arte is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/avant-arte/](https://apis.io/providers/avant-arte/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Avant Arte Domain Security](https://apis.io/security/avant-arte/avant-arte-domain-security/)
+- [Avant Arte Vulnerability Disclosure](https://apis.io/security/avant-arte/avant-arte-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://avantarte.com/)
+- [Sign up](https://avantarte.com/sign-up)
+- [Support](https://avantarte.com/support)
+- [Security](https://github.com/avantarte/Vulnerability-Disclosure)
+- [Terms of service](https://avantarte.com/support/terms-and-conditions)
+- [Privacy policy](https://avantarte.com/support/privacy-policy)
+- [GitHub](https://github.com/avantarte)
+
+## API Evangelist rating
+
+**Kin Score 15.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/avant-arte/](https://apis.io/providers/avant-arte/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Avant Arte: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/avant-arte/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
